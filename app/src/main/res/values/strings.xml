@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bus Stops DC</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="settings_label">Settings</string>
+    <string name="sound_toggle_label">Music</string>
+    <string name="say_hi_label">Say Hi</string>
+</resources>
